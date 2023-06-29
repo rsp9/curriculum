@@ -18,8 +18,3 @@ body {
 	margin: 0 auto;
 	width: 50%;
 }
-
-ul, li {
-	list-style: none !important;
-	list-style-type: none !important;
-}
